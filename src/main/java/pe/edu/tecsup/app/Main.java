@@ -20,7 +20,7 @@ public class Main {
 
     public static int obtenerSuma(int n) {
         if (n < 0){
-            throw new IllegalArgumentException();
+            throw new IllegalArgumentException("El número no puede ser negativo");
         }
 
         int suma = 0;
