@@ -18,15 +18,6 @@ public class Main {
 
     }
 
-        public static int obtenerSuma(int n) {
-            int suma = 0;
-            for (int i = 1; i <= n; i++) {
-                suma += i;
-            }
-            return suma;
-        }
-
-
     public static int obtenerFactorial(int n) {
     int factorial = 1;
         for (int i = 1; i <= n; i++) {
