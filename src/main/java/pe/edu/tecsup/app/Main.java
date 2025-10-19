@@ -16,6 +16,8 @@ public class Main {
 
          */
 
+        System.out.println("Factorial: ");
+
     }
 
         public static int obtenerSuma(int n) {
@@ -25,6 +27,11 @@ public class Main {
             }
             return suma;
         }
+
+
+
+
+
     }
 
     //Nuevos del new_branch, llevarlos al main
