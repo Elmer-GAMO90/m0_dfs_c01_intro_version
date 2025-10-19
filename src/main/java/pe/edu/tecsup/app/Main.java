@@ -23,7 +23,8 @@ public class Main {
         for (int i = 1; i <= n; i++) {
             factorial *= i;
         }
-    return factorial;
+        System.out.println("Factorial: " + factorial);
+        return factorial;
 
     }
 }
