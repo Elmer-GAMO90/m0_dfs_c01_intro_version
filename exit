@@ -1,0 +1,62 @@
+[33mcommit c7e9c9a81adf2b1df1c8edd001be4522d4f800a3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;33mtag: [m[1;33mv1.1.1[m[33m)[m
+Merge: 5b97f66 7af6ce0
+Author: Elmer <lesnar018@gmail.com>
+Date:   Sat Oct 18 22:44:15 2025 -0500
+
+    update con fix_001
+
+[33mcommit 7af6ce04e626f441344fe5415f5d61f84a745c14[m[33m ([m[1;32mfix_001[m[33m)[m
+Author: Elmer <lesnar018@gmail.com>
+Date:   Sat Oct 18 22:34:29 2025 -0500
+
+    new fix
+
+[33mcommit 5b97f6610dc59dba0a2ded445e82701f9da65e1e[m[33m ([m[1;33mtag: [m[1;33mv1.1.0[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: b084b45 e997535
+Author: Elmer <lesnar018@gmail.com>
+Date:   Sat Oct 18 21:36:24 2025 -0500
+
+    update con new_branch
+
+[33mcommit e997535e2b2e8b0fce09d152843914e1b7ab0136[m[33m ([m[1;31morigin/new_branch[m[33m, [m[1;32mnew_branch[m[33m)[m
+Author: Elmer <lesnar018@gmail.com>
+Date:   Sat Oct 18 21:32:49 2025 -0500
+
+    add sout
+
+[33mcommit b084b4597e95f0bd4cee4fd13b332516db137484[m
+Merge: 381e785 6ca6637
+Author: Elmer <lesnar018@gmail.com>
+Date:   Sat Oct 18 21:22:47 2025 -0500
+
+    update
+
+[33mcommit 6ca6637a888003c17538deb1e27c0c9df2b95d29[m
+Author: Elmer <lesnar018@gmail.com>
+Date:   Sat Oct 18 21:15:47 2025 -0500
+
+    update new_branch
+
+[33mcommit 381e78521766589b50a51421a9954fb6d0b96f8b[m
+Author: Elmer <lesnar018@gmail.com>
+Date:   Sat Oct 18 21:14:22 2025 -0500
+
+    add comment
+
+[33mcommit 0820e1a40898dc28c5945dae3fe0f114b0727712[m
+Author: Elmer <lesnar018@gmail.com>
+Date:   Sat Oct 18 19:41:29 2025 -0500
+
+    new method factorial
+
+[33mcommit 6a2590c9d43bf025da8c09fe79835f4e7d2ae99f[m
+Author: Elmer <lesnar018@gmail.com>
+Date:   Fri Oct 17 23:11:04 2025 -0500
+
+    new commit fix_001
+
+[33mcommit 04430f7ff060cbe6c79fdb54cc85b0c61e17b3ed[m[33m ([m[1;33mtag: [m[1;33mv1.0.0[m[33m)[m
+Author: Elmer <lesnar018@gmail.com>
+Date:   Fri Oct 17 21:43:52 2025 -0500
+
+    first commit
