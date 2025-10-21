@@ -24,7 +24,7 @@ public class Main {
         if (n < 0){
             throw new IllegalArgumentException("El número no puede ser negativo");
         }
-        int suma = 0;
+        int suma = 0; //Cambio desde el repositorio clonado
         for (int i = 1; i <= n; i++) {
             suma += i;
         }
